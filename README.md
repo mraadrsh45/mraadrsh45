@@ -16,8 +16,4 @@ Code. Build. Secure. Repeat.<br>🛡️ Cybersecurity Student<br>🌐 Web Develo
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mraadrsh45&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=mraadrsh45&icon=9&color=7)](https://visitcount.itsvg.in)
 ![LUXMAN KUMAR](https://persenal-story.vercel.app)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
