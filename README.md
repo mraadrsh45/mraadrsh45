@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:7c3aed,100:00f7ff&height=170&section=header&text=Hello%2C%20World!%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:7c3aed,100:00f7ff&height=200&section=header&text=Luxman%20Kumar&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Web%20Developer%20%7C%20AI%20%26%20Robotics&descAlignY=60&descSize=17" width="100%" alt="Luxman Kumar" />
 
-<!-- Animated creator signature -->
-<img src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/main/assets/creator.svg" width="100%" alt="Luxman Kumar - Creator" />
+<!-- Animated tech character -->
+<img src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/main/tech-character.svg" width="100%" alt="Animated tech character" />
 
 <a href="https://github.com/mraadrsh45">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=45&lines=Code.+Build.+Secure.+Repeat.;Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Web+Developer+%F0%9F%8C%90;AI%2C+Robotics+%26+Automation+Explorer+%F0%9F%A4%96;Always+learning+new+technologies+%F0%9F%9A%80" alt="Typing SVG" />
@@ -50,7 +50,7 @@ const luxman = {
 
 <div align="center">
   <!-- Animated scrolling tech marquee -->
-  <img src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/main/assets/tech-marquee.svg" width="100%" alt="Animated tech stack" />
+  <img src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/main/tech-marquee.svg" width="100%" alt="Animated tech stack" />
 </div>
 
 <details open>
