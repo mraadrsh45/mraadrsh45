@@ -27,7 +27,6 @@ I also explore **AI, Robotics & Automation**, and I'm always picking up somethin
 - 🌐 Building: Full-stack web apps with React, Node.js & modern databases
 - 🤖 Exploring: AI/ML, Raspberry Pi projects, Automation
 - 🔗 Web3: Experimenting with blockchain using Web3.js
-- 📍 Based in: Ludhiana, Punjab, India
 - 🌱 Currently: Improving my skills, one project at a time
 - 📫 Reach me: see the links below
 
@@ -38,7 +37,9 @@ I also explore **AI, Robotics & Automation**, and I'm always picking up somethin
 <p align="center">
   <a href="https://persenal-story.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/mraadrsh45"><img src="https://img.shields.io/badge/GitHub-mraadrsh45-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/_mr.ray_04"><img src="https://img.shields.io/badge/Instagram-_mr.ray__04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER-ID"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
@@ -98,30 +99,22 @@ I also explore **AI, Robotics & Automation**, and I'm always picking up somethin
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/mraadrsh45/CloudVMX">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=CloudVMX&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/mraadrsh45/fully-automatic-Barcode-scanner-for-robot">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=fully-automatic-Barcode-scanner-for-robot&theme=radical&hide_border=true" />
-  </a>
-</p>
+> Replace `YOUR-REPO-NAME` with the names of your best repositories.
 
 <p align="center">
-  <a href="https://github.com/mraadrsh45/Risk-detection-system">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=Risk-detection-system&theme=radical&hide_border=true" />
+  <a href="https://github.com/mraadrsh45/YOUR-REPO-NAME-1">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=YOUR-REPO-NAME-1&theme=radical" />
   </a>
-  <a href="https://github.com/mraadrsh45/Roomora-website">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=Roomora-website&theme=radical&hide_border=true" />
+  <a href="https://github.com/mraadrsh45/YOUR-REPO-NAME-2">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=YOUR-REPO-NAME-2&theme=radical" />
   </a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/mraadrsh45/VK-Unisex-Salon">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=VK-Unisex-Salon&theme=radical&hide_border=true" />
+  <a href="https://github.com/mraadrsh45/YOUR-REPO-NAME-3">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=YOUR-REPO-NAME-3&theme=radical" />
   </a>
-  <a href="https://github.com/mraadrsh45/Fitzone">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=Fitzone&theme=radical&hide_border=true" />
+  <a href="https://github.com/mraadrsh45/YOUR-REPO-NAME-4">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=YOUR-REPO-NAME-4&theme=radical" />
   </a>
 </p>
 
