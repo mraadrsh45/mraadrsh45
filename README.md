@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:7c3aed,100:00f7ff&height=170&section=header&text=Hello%2C%20World!%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" alt="header" />
 
 <!-- Animated creator signature -->
-<img src="assets/creator.svg" width="100%" alt="Luxman Kumar - Creator" />
+<img src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/main/assets/creator.svg" width="100%" alt="Luxman Kumar - Creator" />
 
 <a href="https://github.com/mraadrsh45">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=45&lines=Code.+Build.+Secure.+Repeat.;Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Web+Developer+%F0%9F%8C%90;AI%2C+Robotics+%26+Automation+Explorer+%F0%9F%A4%96;Always+learning+new+technologies+%F0%9F%9A%80" alt="Typing SVG" />
@@ -50,7 +50,7 @@ const luxman = {
 
 <div align="center">
   <!-- Animated scrolling tech marquee -->
-  <img src="assets/tech-marquee.svg" width="100%" alt="Animated tech stack" />
+  <img src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/main/assets/tech-marquee.svg" width="100%" alt="Animated tech stack" />
 </div>
 
 <details open>
@@ -76,12 +76,11 @@ const luxman = {
 <div align="center">
 
 <!-- Live repo cards: stars, forks and description update automatically -->
-<a href="https://github.com/mraadrsh45/CloudVMX"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=CloudVMX&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed" /></a>
-<a href="https://github.com/mraadrsh45/Fitzone"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=Fitzone&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed" /></a>
-<a href="https://github.com/mraadrsh45/Risk-detection-system"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=Risk-detection-system&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed" /></a>
-<a href="https://github.com/mraadrsh45/fully-automatic-Barcode-scanner-for-robot"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=fully-automatic-Barcode-scanner-for-robot&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed" /></a>
-<a href="https://github.com/mraadrsh45/Roomora-website"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=Roomora-website&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed" /></a>
-<a href="https://github.com/mraadrsh45/VK-Unisex-Salon"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=VK-Unisex-Salon&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed" /></a>
+<table align="center" width="100%">
+<tr><td width="50%" align="center" valign="top"><a href="https://github.com/mraadrsh45/CloudVMX"><img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=CloudVMX&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed&description_lines_count=2&hide_border=false" alt="CloudVMX" /></a></td><td width="50%" align="center" valign="top"><a href="https://github.com/mraadrsh45/Fitzone"><img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=Fitzone&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed&description_lines_count=2&hide_border=false" alt="Fitzone" /></a></td></tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://github.com/mraadrsh45/Risk-detection-system"><img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=Risk-detection-system&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed&description_lines_count=2&hide_border=false" alt="Risk-detection-system" /></a></td><td width="50%" align="center" valign="top"><a href="https://github.com/mraadrsh45/fully-automatic-Barcode-scanner-for-robot"><img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=fully-automatic-Barcode-scanner-for-robot&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed&description_lines_count=2&hide_border=false" alt="fully-automatic-Barcode-scanner-for-robot" /></a></td></tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://github.com/mraadrsh45/Roomora-website"><img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=Roomora-website&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed&description_lines_count=2&hide_border=false" alt="Roomora-website" /></a></td><td width="50%" align="center" valign="top"><a href="https://github.com/mraadrsh45/VK-Unisex-Salon"><img width="100%" src="https://github-readme-stats.shion.dev/api/pin/?username=mraadrsh45&repo=VK-Unisex-Salon&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&icon_color=ff2bd6&border_color=7c3aed&description_lines_count=2&hide_border=false" alt="VK-Unisex-Salon" /></a></td></tr>
+</table>
 
 <br/>
 
@@ -119,7 +118,7 @@ const luxman = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mraadrsh45&bg_color=0d1117&color=00f7ff&line=ff2bd6&point=ffffff&area=true&area_color=7c3aed&title_color=00f7ff&hide_border=true" width="100%" alt="Contribution graph" />
+<a href="https://github.com/mraadrsh45"><img src="https://ghchart.rshah.org/00f7ff/mraadrsh45" width="100%" alt="Contribution calendar" /></a>
 
 <br/><br/>
 
@@ -129,10 +128,6 @@ const luxman = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/output/github-snake-dark.svg" />
 </picture>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mraadrsh45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
 
 </div>
 
