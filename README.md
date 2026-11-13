@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated tech character -->
-<img src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/main/creator.svg" width="100%" alt="Animated tech character" />
+<h1 align="center">Hi, I'm Luxman Kumar 👋</h1>
 
 <a href="https://github.com/mraadrsh45">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=45&lines=Code.+Build.+Secure.+Repeat.;Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Web+Developer+%F0%9F%8C%90;AI%2C+Robotics+%26+Automation+Explorer+%F0%9F%A4%96;Always+learning+new+technologies+%F0%9F%9A%80" alt="Typing SVG" />
