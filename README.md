@@ -124,7 +124,7 @@ const luxman = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mraadrsh45/mraadrsh45/output/snake.yml" />
 </picture>
 
 </div>
